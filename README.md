@@ -22,3 +22,4 @@ Conclusion
 This lab demonstrates the capabilities of Azure AI Vision SDK in recognizing text from images and provides a foundation for further exploration of computer vision technologies. For more information, refer to the official Azure AI documentation.
 
 ![Screenshot 2024-11-06 110031](https://github.com/user-attachments/assets/d1afcde3-8e29-4866-82c8-7d07758479c6)
+![Screenshot 2024-11-06 105956](https://github.com/user-attachments/assets/3748e43e-1f2b-4ac6-b8d0-cbea8e71dbda)
